@@ -4,7 +4,7 @@ Customer Management Server
 * API approach
     * Independent Database Controller
 * Subscription Service
-    * [Multi-Tier Subscription]('Subscription.md')
+    * [Multi-Tier Subscription](Subscription.md)
 
 
 Technologies:
