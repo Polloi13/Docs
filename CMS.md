@@ -18,7 +18,6 @@ Technologies:
 ---
 
 Why [Polloi]('https://en.wiktionary.org/wiki/%CF%80%CE%BF%CE%BB%CE%BB%CE%BF%CE%AF')
-?
 
 * Greek - People
 
