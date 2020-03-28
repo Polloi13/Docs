@@ -18,12 +18,22 @@ Technologies:
 
 ---
 
-Why 
+## Why 
 * [Polloi](https://en.wiktionary.org/wiki/%CF%80%CE%BF%CE%BB%CE%BB%CE%BF%CE%AF)
 
 
 * Greek - People
 
 Used as Hoi Polloi - The People or The masses(of people)
+
+---
+
+## Domain Options
+
+[polloi.io](https://www.name.com/domain/search/polloi.io) 
+* $100
+
+[polloi.co.za](https://www.axxess.co.za/hosting/domain) 
+* R100
 
 ---
