@@ -9,11 +9,11 @@ Customer Management Server
 
 Technologies:
 
-* [Azure Server]('')
-* [GraphQL]('')
-* [Apollo]('')
+* [Azure Server]()
+* [GraphQL]()
+* [Apollo]()
 
-* [Tutorial]('https://www.youtube.com/watch?v=7R33hGFV4f0')
+* [Tutorial](https://www.youtube.com/watch?v=7R33hGFV4f0)
 
 
 ---
