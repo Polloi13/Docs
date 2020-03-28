@@ -13,7 +13,7 @@ Technologies:
 * [GraphQL]('')
 * [Apollo]('')
 
-* [Tutorial]("https://www.youtube.com/watch?v=7R33hGFV4f0")
+* [Tutorial]('https://www.youtube.com/watch?v=7R33hGFV4f0')
 
 
 ---
